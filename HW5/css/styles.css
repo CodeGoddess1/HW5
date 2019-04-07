@@ -1,0 +1,18 @@
+.one{
+    background-color: yellow;
+}
+.two{
+    background-color: red;
+    
+}
+.three{
+    background-color: darkviolet;
+    
+}
+#button1{
+    background-color: lightgreen;
+}
+#button1 {
+  font-size:150%;
+  background-color: darkgreen;
+}
